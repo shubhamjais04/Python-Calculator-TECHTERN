@@ -42,6 +42,6 @@ I also learned how to handle user input and how to structure a small project.
 
 ## Author
 
-Shubham Jaiswal
-Intern at TECHTERN
+Shubham Jaiswal  
+Intern at TECHTERN  
 March 2026
