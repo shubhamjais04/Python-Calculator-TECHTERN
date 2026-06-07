@@ -23,9 +23,11 @@ A feature-rich command-line calculator built with Python, supporting a wide rang
 
 ## 📁 Project Structure
 
+```
 Python-Calculator-TECHTERN/
 ├── Week1_Day6_Calculator_Project.ipynb   # Main calculator notebook
 └── README.md                             # Project documentation
+```
 
 ---
 
