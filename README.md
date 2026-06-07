@@ -51,7 +51,8 @@ jupyter notebook Week1_Day6_Calculator_Project.ipynb
 
 ## 📬 Connect
 
-Shubham Jaiswal
+Shubham Jaiswal  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhjais04)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamjais04)
 
