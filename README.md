@@ -1,47 +1,53 @@
-# Calculator Project - Python
+# 🧮 Python Calculator
 
-This is my Week 1 project for my internship at TECHTERN.
-I made an advanced calculator using Python.
-
----
-
-## What this calculator can do
-
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Square Root
-- Power
-- Modulus
-- Square
+A feature-rich command-line calculator built with Python, supporting a wide range of mathematical operations with robust input validation and error handling.
 
 ---
 
-## Tools I used
+## ✨ Features
 
-- Python 3
-- Jupyter Notebook
-
----
-
-## How to run
-
-1. Open the file in Jupyter Notebook or Google Colab
-2. Run all the cells
-3. Enter your choice and numbers
+- ➕ Basic Operations — Addition, Subtraction, Multiplication, Division
+- 🔢 Advanced Operations — Power, Square Root, Modulus, Square
+- ⚠️ Error Handling — Division by zero, invalid input detection
+- 🖥️ Clean menu-driven CLI interface
+- 🔄 Continuous operation until user exits
 
 ---
 
-## What I learned
+## 🛠️ Tech Stack
 
-While making this project I understood how to use functions properly in Python.
-I also learned how to handle user input and how to structure a small project.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## Author
+## 📁 Project Structure
 
-Shubham Jaiswal  
-Intern at TECHTERN  
-March 2026
+Python-Calculator-TECHTERN/
+├── Week1_Day6_Calculator_Project.ipynb   # Main calculator notebook
+└── README.md                             # Project documentation
+
+---
+
+## 🚀 How to Run
+
+**1. Clone the repository**
+```bash
+git clone https://github.com/shubhamjais04/Python-Calculator-TECHTERN.git
+cd Python-Calculator-TECHTERN
+```
+
+**2. Open in Jupyter Notebook**
+```bash
+jupyter notebook Week1_Day6_Calculator_Project.ipynb
+```
+
+**3. Run all cells and interact with the calculator menu**
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhjais04)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamjais04)
+
